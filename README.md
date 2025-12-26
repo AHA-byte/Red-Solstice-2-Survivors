@@ -1,7 +1,7 @@
 Modding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.
 tools used for mod development
 
-UAsset Diff Tool
+UAsset Diff Tool - Written by Qoqqi
 https://github.com/theqoqqi/uasset-diff-tool/
 
 repak Written by truman
