@@ -1,4 +1,4 @@
-Moding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.
+Modding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.
 tools used for mod development
 
 UAsset Diff Tool
