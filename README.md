@@ -142,10 +142,6 @@ This mod was inspired by the abandoned **Red Solstice 2 Redux** by **ZephyrGlide
 Some baseline values were kept from their work, while many new features were implemented without breaking anything(as far as i know) for the latest version of the game.
 * [Check out the original Redux mod on Nexus Mods](https://www.nexusmods.com/redsolstice2survivors/mods/17)
 
-the mod was inspired by abandoned Red Solstice 2 Redux by ZephyrGlide, kept some values from that and implemented many of my own for "Latest Version"
-Checkout his mod
-https://www.nexusmods.com/redsolstice2survivors/mods/17
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
