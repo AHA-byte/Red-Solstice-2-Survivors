@@ -1,5 +1,12 @@
-Modding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.
-tools used for mod development
+**Modding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.**
+
+# Red Solstice 2: AHA Rebalanced
+
+**A comprehensive overhaul mod for Red Solstice 2: Survivors.**
+
+This mod aims to revitalize the game by rebalancing weapons, making progression more rewarding, and buffing underused suit modules. It focuses on making higher difficulties approachable through viable strategies rather than grinding, offering powerful upgrades that feel impactful.
+
+Did i made a few things over powered, especially ASV. Hell YA!
 
 ## 💻 Tools Used
 
@@ -11,24 +18,6 @@ Development of this mod was made possible by these open-source tools:
 * **[FModel](https://fmodel.app/)**
 * **[UAssetGUI](https://github.com/atenfyr/UAssetGUI)** - Written by atenfyr
 * **[UAssetConverter](https://github.com/approved/UnrealUAssetConverter)** - Written by approved
-
-## 🤝 Inspiration & Credits
-
-This mod was inspired by the abandoned **Red Solstice 2 Redux** by **ZephyrGlide**.
-Some baseline values were kept from their work, while many new features were implemented without breaking anything(as far as i know) for the latest version of the game.
-* [Check out the original Redux mod on Nexus Mods](https://www.nexusmods.com/redsolstice2survivors/mods/17)
-
-the mod was inspired by abandoned Red Solstice 2 Redux by ZephyrGlide, kept some values from that and implemented many of my own for "Latest Version"
-Checkout his mod
-https://www.nexusmods.com/redsolstice2survivors/mods/17
-
-# Red Solstice 2: AHA Rebalanced
-
-**A comprehensive overhaul mod for Red Solstice 2: Survivors.**
-
-This mod aims to revitalize the game by rebalancing weapons, making progression more rewarding, and buffing underused suit modules. It focuses on making higher difficulties approachable through viable strategies rather than grinding, offering powerful upgrades that feel impactful.
-
-Did i made a few things over powered, especially ASV. Hell YA!
 
 ## 🛠️ Installation
 
@@ -147,6 +136,15 @@ A complete overhaul of the leveling curve. Every rank feels rewarding.
         * Skill Radius **x10**.
         * Skill Duration **x15**.
         * Critical Damage **+50%**.
+## 🤝 Inspiration & Credits
+
+This mod was inspired by the abandoned **Red Solstice 2 Redux** by **ZephyrGlide**.
+Some baseline values were kept from their work, while many new features were implemented without breaking anything(as far as i know) for the latest version of the game.
+* [Check out the original Redux mod on Nexus Mods](https://www.nexusmods.com/redsolstice2survivors/mods/17)
+
+the mod was inspired by abandoned Red Solstice 2 Redux by ZephyrGlide, kept some values from that and implemented many of my own for "Latest Version"
+Checkout his mod
+https://www.nexusmods.com/redsolstice2survivors/mods/17
 
 ## 📄 License
 
