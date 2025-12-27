@@ -1,23 +1,22 @@
 Modding after long hiatus, had to relearn old things and new stuff to Unreal Engine 4/5.
 tools used for mod development
 
-UAsset Diff Tool - Written by Qoqqi
-https://github.com/theqoqqi/uasset-diff-tool/
+## 💻 Tools Used
 
-repak Written by truman
-https://github.com/trumank/repak
+Development of this mod was made possible by these open-source tools:
 
-UnrealReZen - Written by NoobInCoding
-https://github.com/rm-NoobInCoding/UnrealReZen
+* **[UAsset Diff Tool](https://github.com/theqoqqi/uasset-diff-tool/)** - Written by Qoqqi
+* **[repak](https://github.com/trumank/repak)** - Written by truman
+* **[UnrealReZen](https://github.com/rm-NoobInCoding/UnrealReZen)** - Written by NoobInCoding
+* **[FModel](https://fmodel.app/)**
+* **[UAssetGUI](https://github.com/atenfyr/UAssetGUI)** - Written by atenfyr
+* **[UAssetConverter](https://github.com/approved/UnrealUAssetConverter)** - Written by approved
 
-FModel
-https://fmodel.app/
+## 🤝 Inspiration & Credits
 
-UAssetGUI - Written by atenfyr
-https://github.com/atenfyr/UAssetGUI
-
-UAssetConverter - Written by approved
-https://github.com/approved/UnrealUAssetConverter
+This mod was inspired by the abandoned **Red Solstice 2 Redux** by **ZephyrGlide**.
+Some baseline values were kept from their work, while many new features were implemented without breaking anything(as far as i know) for the latest version of the game.
+* [Check out the original Redux mod on Nexus Mods](https://www.nexusmods.com/redsolstice2survivors/mods/17)
 
 the mod was inspired by abandoned Red Solstice 2 Redux by ZephyrGlide, kept some values from that and implemented many of my own for "Latest Version"
 Checkout his mod
